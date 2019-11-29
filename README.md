@@ -36,14 +36,6 @@ Chamada para exclusao de um planeta criado, onde o 1 no final da url é o id a s
  
  http://localhost:8080/api/planetas/remove/103
  
-Exemplo de nomes de paises que tiveram aparição em filmes:
+Exemplo de nomes de planetas que tiveram aparição em filmes:
 
-Alderaan
-Yavin IV
-Hoth
-Dagobah
-Bespin
-Endor
-Naboo
-Coruscant
-Kamino
+Alderaan, Yavin IV, Hoth, Dagobah, Bespin, Endor, Naboo, Coruscant, Kamino
