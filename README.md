@@ -1,7 +1,9 @@
 # Desafio tecnico
 
-Ferramenta utilizada para realização dos teste - Postman
 Ide para criação do projeto: Eclipse Juno
+Ferramenta utilizada para realização dos teste - Postman
+Banco de dados: MongoDB (Database: b2wdb, Collection: planetas)
+	
 Classe para start do serviço br.com.filmes.starwars.GerenciadorPlanetasApplication
 
 No Postman:
