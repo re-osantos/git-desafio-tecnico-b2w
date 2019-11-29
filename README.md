@@ -1,7 +1,9 @@
 # Desafio tecnico
 
 Ide para criação do projeto: Eclipse Juno
+
 Ferramenta utilizada para realização dos teste - Postman
+
 Banco de dados: MongoDB (Database: b2wdb, Collection: planetas)
 	
 Classe para start do serviço br.com.filmes.starwars.GerenciadorPlanetasApplication
@@ -34,7 +36,8 @@ Chamada para exclusao de um planeta criado, onde o 1 no final da url é o id a s
  
  http://localhost:8080/api/planetas/remove/103
  
-Exemplo de nomes de paises que tiveram aparição em filmes
+Exemplo de nomes de paises que tiveram aparição em filmes:
+
 Alderaan
 Yavin IV
 Hoth
