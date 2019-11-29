@@ -1,4 +1,4 @@
-# git-desafio-tecnico-b2w
+# Desafio tecnico
 
 Ferramenta utilizada para realização dos teste - Postman
 Ide para criação do projeto: Eclipse Juno
